@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.exe
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.deps.json
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.dll
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\bin\Debug\netcoreapp3.1\ImpStack.pdb
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.dll
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.pdb
+C:\Users\Teju Reddy\source\repos\ImpStack\ImpStack\obj\Debug\netcoreapp3.1\ImpStack.genruntimeconfig.cache
